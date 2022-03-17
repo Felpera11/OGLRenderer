@@ -1,0 +1,7 @@
+﻿  Application.cpp
+c:\users\ricardo\desktop\projetos\renderer\renderer\renderer\src\application.cpp(96): warning C4305: '+=': truncamento de 'double' para 'float'
+c:\users\ricardo\desktop\projetos\renderer\renderer\renderer\src\application.cpp(97): warning C4305: '+=': truncamento de 'double' para 'float'
+c:\users\ricardo\desktop\projetos\renderer\renderer\renderer\src\application.cpp(98): warning C4305: '-=': truncamento de 'double' para 'float'
+c:\users\ricardo\desktop\projetos\renderer\renderer\renderer\src\application.cpp(99): warning C4305: '+=': truncamento de 'double' para 'float'
+c:\users\ricardo\desktop\projetos\renderer\renderer\renderer\src\application.cpp(53): warning C4101: 'vao': variável local não referenciada
+  Renderer.vcxproj -> C:\Users\Ricardo\Desktop\Projetos\Renderer\Renderer\Debug\Renderer.exe
